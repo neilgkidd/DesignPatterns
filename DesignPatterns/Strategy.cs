@@ -25,7 +25,7 @@ namespace DesignPatterns
         public string Quack()
         {
             return "Quack";
-        }
+        }  
 
         public string Swim()
         {
