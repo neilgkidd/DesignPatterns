@@ -48,6 +48,6 @@ namespace DesignPatterns
         public override string Display()
         {
             return "looks like a Redhead";
-        }
+        }  
     }
 }
