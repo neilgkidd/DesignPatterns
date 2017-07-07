@@ -5755,11 +5755,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Git\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectUniqueName": "C:\\Dev\\Git\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
       "projectName": "DesignPatterns",
-      "projectPath": "C:\\Dev\\Git\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectPath": "C:\\Dev\\Git\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
       "packagesPath": "C:\\Users\\NKidd\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Git\\DesignPatterns\\DesignPatterns\\DesignPatterns\\obj\\",
+      "outputPath": "C:\\Dev\\Git\\DesignPatterns\\DesignPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NKidd\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -36,7 +36,7 @@ namespace DesignPatterns
     }
 
     public class MallardDuck : Duck
-    {
+    {  
         public override string Display()
         {
             return "looks like a Mallard";
@@ -48,6 +48,6 @@ namespace DesignPatterns
         public override string Display()
         {
             return "looks like a Redhead";
-        }  
+        }
     }
 }
